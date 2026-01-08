@@ -8,6 +8,13 @@ Atuo na <b>Deloitte</b>, na área de <b>Coding & Support</b>.<br/>
 Apaixonado por tecnologia, sempre em busca de aprender e crescer.
 </p>
 
+<details>
+  <summary>🌐 Read Gustavo's bio in English</summary>
+  <p align="justify">
+I am 18 years old, a student of Systems Analysis and Development at SPTech, and I work at Deloitte in the Coding & Support area. I am passionate about technology and always looking to learn and grow.
+  </p>
+</details>
+
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=006bed)
@@ -44,3 +51,5 @@ Apaixonado por tecnologia, sempre em busca de aprender e crescer.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavomendesdev/)
 [![GitHub](https://img.shields.io/github/followers/GustavoMendesDev?label=follow&style=social)](https://github.com/GustavoMendesDev)
+
+## ✨ “Vejo desafios como oportunidades de evolução.”
