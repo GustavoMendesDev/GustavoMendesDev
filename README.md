@@ -3,15 +3,15 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=GustavoMendesDev&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>
-Tenho 18 anos, sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> na <b>SPTech</b>.<br/>
-Atuo na <b>Deloitte</b>, na área de <b>Coding & Support</b>.<br/>
+Tenho 19 anos, sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> na <b>SPTech</b>.<br/>
+Atuo na <b>Deloitte</b>, na área de <b>Coding & Support em Implementação. </b>.<br/>
 Apaixonado por tecnologia, sempre em busca de aprender e crescer.
 </p>
 
 <details>
   <summary>🌐 Read Gustavo's bio in English</summary>
   <p align="justify">
-I am 18 years old, a student of Systems Analysis and Development at SPTech, and I work at Deloitte in the Coding & Support area. I am passionate about technology and always looking to learn and grow.
+I am 18 years old, a student of Systems Analysis and Development at SPTech, and I work at Deloitte in the Coding & Support at Implementation area. I am passionate about technology and always looking to learn and grow.
   </p>
 </details>
 
@@ -21,7 +21,7 @@ I am 18 years old, a student of Systems Analysis and Development at SPTech, and 
 
 ## 🚀 Sobre mim
 
-- 💻 Atualmente trabalhando com Coding & Support na Deloitte
+- 💻 Atualmente trabalhando com Coding & Support na área de implementação na Deloitte
 - 🎓 Estudante de ADS na SPTech
 - 🤔 Explorando novas tecnologias e desenvolvimento de software
 - 🌱 Focado em me desenvolver como dev **full stack**
